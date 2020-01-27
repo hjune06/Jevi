@@ -1,1 +1,1 @@
-https://jevitest.herokuapp.com
+web: node ./app.js Thoratica https://jevitest.herokuapp.com 
